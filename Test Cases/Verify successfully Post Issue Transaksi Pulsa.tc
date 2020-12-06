@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify successfully Post Issue Transaksi Pulsa</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>10326f51-4ee1-47d3-a333-4939d5d7d130</testCaseGuid>
+</TestCaseEntity>
